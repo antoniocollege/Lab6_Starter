@@ -1,2 +1,4 @@
 # Lab 6 - Starter
+See my website here https://antoniocollege.github.io/Lab6_Starter/
+
 The other account that committed to this repository IS ME. I decided to start committing using the CMD line this time (before this, like for Lab 5, I just manually edited all the files on the web or used the batch upload), and I forgot that I was still signed into my public account for non-school projects that I was using over Christmas break. I didn't realize I was still logged into it. The account got shut down because I had multiple accounts under the same email and I thought it was just dead, and my verification codes are on a different computer than the one I'm currently using. Everything should ideally be published under antoniocollege, I tried deleting the repo, renaming it, detaching the fork, but it wouldn't fix it. This shouldn't happen again though, I deleted the login for my old account from my Windows credentials.
